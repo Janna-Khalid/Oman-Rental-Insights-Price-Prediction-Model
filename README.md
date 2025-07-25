@@ -37,7 +37,7 @@ Each website contains rental property listings that provide details like title, 
 
 ## 🛠️ Tools & Libraries
 
-- Python 3.x
+- Python
 - BeautifulSoup & Requests (for web scraping)
 - Pandas & NumPy (for data manipulation)
 - Scikit-learn (for feature engineering and scaling)
