@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏠 Real Estate Rental Price Analysis in Oman
 
 This project simulates a real-world data science workflow focused on property rental listings in Oman. The goal is to scrape data from two real estate websites, clean and integrate the data, engineer meaningful features, and lay the groundwork for predictive modeling of rental prices.
@@ -43,7 +42,7 @@ Each website contains rental property listings that provide details like title, 
 - Pandas & NumPy (for data manipulation)
 - Scikit-learn (for feature engineering and scaling)
 - Jupyter Notebooks
-=======
+  
 # 🏠 Real Estate Rental Price Analysis in Oman
 
 This project simulates a real-world data science workflow focused on property rental listings in Oman. The goal is to scrape data from two real estate websites, clean and integrate the data, engineer meaningful features, and lay the groundwork for predictive modeling of rental prices.
@@ -88,4 +87,3 @@ Each website contains rental property listings that provide details like title, 
 - Pandas & NumPy (for data manipulation)
 - Scikit-learn (for feature engineering and scaling)
 - Jupyter Notebooks
->>>>>>> 8e4ded1509c53aa21c7117c94ad311f76ab4408d
