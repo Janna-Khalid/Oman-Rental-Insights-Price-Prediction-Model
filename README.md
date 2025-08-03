@@ -80,6 +80,16 @@ Each website contains rental property listings that provide details like title, 
      - Encoded categorical features.
    - Apply feature scaling using `StandardScaler`.
 
+## 🤖 Predictive Model
+
+After completing the data cleaning and feature engineering steps, a predictive model was developed to estimate rental prices based on the available property features.
+
+- **Model Used:** Linear Regression  
+- **Performance Metric:** R² Score  
+- **Model Accuracy:** **0.91**
+
+The model achieved an R² score of **0.91**, which indicates that 91% of the variance in rental prices can be explained by the features used. This strong result demonstrates that the selected variables and preprocessing pipeline are effective in capturing key trends in the Omani rental property market.
+
 ## 🛠️ Tools & Libraries
 
 - Python
